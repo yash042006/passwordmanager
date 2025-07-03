@@ -1,0 +1,1 @@
+This Password Manager System is a software application designed to help users securely store, manage, and retrieve their passwords and other sensitive credentials.  It addresses the challenges of maintaining strong, unique passwords for multiple accounts by providing a centralized and encrypted database.
